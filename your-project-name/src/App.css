@@ -1,0 +1,123 @@
+
+#root {
+  max-width: 1280px;
+  max-height: 1500px;
+  margin: 0 auto;
+  padding: 2rem;
+  position: relative;
+
+}
+.rtr{
+
+  margin-top: 5rem;
+  margin-left: -19rem;
+  padding: 2rem;
+}
+.tyt{
+
+    width: 5rem;
+}
+.tuc{
+  padding-inline: 5rem;
+}
+.tt{
+
+   height:15rem;
+}
+/*.tpt{
+  height: 3rem;
+  width: 10rem;
+  margin: 0 20px 0 20px;
+  float: right;
+}*/
+.sub-color{
+  width: 20rem;
+  height:30rem;
+  background-color: aquamarine;
+  position: absolute;
+  top: 35px;
+  float: right;
+  left:55rem;
+}
+.ttt{
+  gap: 60rem;
+  margin-top: 10px;
+}
+
+h6{
+  width: 40rem;
+  padding-left: 15rem;
+  word-break: break-all;
+    
+}
+p{
+  width: 35rem; 
+  padding-left: 15rem;
+
+}
+.border{
+  height: 1px;
+  width: fit-content;
+  color: red;
+  
+}
+
+.mid-container{
+  font-size: 30px;
+  font-weight: bold;
+  padding-left: 5rem;
+
+}
+
+/*
+.container{
+  width:100vh;
+  height: 100vh;
+  background-color: black;
+}
+
+.overlay{
+  width: 25rem;
+  height: 27rem;
+  background-color: azure;
+  margin-left:45rem;
+
+ 
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+*/
